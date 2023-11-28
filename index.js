@@ -1,9 +1,9 @@
 / 20231127160311
-// https://plus.codes/api?address=14.917313,-23.511313&email=YOUR_EMAIL_HERE
-
+// https://plus.codes/api?address=14.917313,-23.51131
+"global_code": "796RWF8Q+WF",
 {
   "plus_code": {
-    "global_code": "796RWF8Q+WF",
+   
     "geometry": {
       "bounds": {
         "northeast": {
@@ -26,3 +26,5 @@
   },
   "status": "OK"
 }
+
+https://www.youtube.com/watch?app=desktop&v=iyYlxm5mOME
